@@ -35,7 +35,7 @@ EXTRA_ALLOWED_VALIDATOR_HOTKEYS = {
     "5FZD47WhA1UaVicYAr7pGnWb2YQLMD7uViipDYN2r1AJ5ggD",
 }
 
-RUNTIME_MODEL_RELATIVE_PATH = Path("weights") / "gen20_tens2_10k_vote101_hardened.ts"
+RUNTIME_MODEL_RELATIVE_PATH = Path("weights") / "gen20_tens1_7k_vote101_hardened.ts"
 
 
 def _runtime_implementation_files(repo_root: Path) -> List[Path]:

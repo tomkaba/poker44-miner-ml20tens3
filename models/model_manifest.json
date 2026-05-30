@@ -24,6 +24,6 @@
         "poker44/utils/model_manifest.py",
         "poker44/validator/synapse.py"
     ],
-    "implementation_sha256": "a87618e0d940f261fc35113b264c8a4a5df8c3c84bb84e568e2713387f824ebe",
+    "implementation_sha256": "f26eaa274c76e33c011b58df67f35ad908cae52168b7ccc72f1db7cc7720e235",
     "notes": "ml20tens3 TorchScript neural network scorer using the gen20_tens1_7k_vote101_hardened artifact with the strict decision threshold fixed at 1.0 and prod-like runtime preprocessing."
 }
