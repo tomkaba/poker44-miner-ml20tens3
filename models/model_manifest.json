@@ -6,7 +6,7 @@
     "framework": "pytorch-torchscript",
     "license": "MIT",
     "repo_url": "https://github.com/tomkaba/poker44-miner-ml20tens3",
-    "repo_commit": "",
+    "repo_commit": "79a4362b18106a2f295f6f07bab705fcc91723a3",
     "inference_mode": "local",
     "training_data_statement": "Uses the gen20_tens1_7k_vote101_hardened TorchScript artifact with the decision threshold fixed at 1.0 and prod-like runtime preprocessing.",
     "data_attestation": "This miner does not train on validator-private human data.",
